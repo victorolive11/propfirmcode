@@ -1,0 +1,9 @@
+# 301 redirects from .html URLs to clean canonical URLs
+/index.html                        /                              301
+/firms/alpha-futures.html          /firms/alpha-futures           301
+/firms/fundednext.html             /firms/fundednext              301
+/firms/fundingpips.html            /firms/fundingpips             301
+/firms/instant-funding.html        /firms/instant-funding         301
+/firms/the5ers.html                /firms/the5ers                 301
+/firms/funderpro.html              /firms/funderpro               301
+/firms/brightfunded.html           /firms/brightfunded            301

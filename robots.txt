@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /server.js
+Disallow: /.claude/
+Disallow: /brief.txt.txt
+Disallow: /promo-codes.txt.txt
+
+Sitemap: https://propfirmcode.net/sitemap.xml

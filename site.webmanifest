@@ -1,0 +1,28 @@
+{
+  "name": "PropFirmCode",
+  "short_name": "PropFirmCode",
+  "description": "Verified prop firm promo codes, discount codes and coupon codes for 2026.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#05050f",
+  "background_color": "#05050f",
+  "icons": [
+    {
+      "src": "/favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
